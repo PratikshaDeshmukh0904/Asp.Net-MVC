@@ -1,0 +1,8 @@
+F:\ECS_softwares\ProjectionOperators\bin\Debug\ProjectionOperators.exe.config
+F:\ECS_softwares\ProjectionOperators\bin\Debug\ProjectionOperators.exe
+F:\ECS_softwares\ProjectionOperators\bin\Debug\ProjectionOperators.pdb
+F:\ECS_softwares\ProjectionOperators\obj\Debug\ProjectionOperators.csproj.AssemblyReference.cache
+F:\ECS_softwares\ProjectionOperators\obj\Debug\ProjectionOperators.csproj.SuggestedBindingRedirects.cache
+F:\ECS_softwares\ProjectionOperators\obj\Debug\ProjectionOperators.csproj.CoreCompileInputs.cache
+F:\ECS_softwares\ProjectionOperators\obj\Debug\ProjectionOperators.exe
+F:\ECS_softwares\ProjectionOperators\obj\Debug\ProjectionOperators.pdb
